@@ -1,0 +1,10 @@
+google-genai
+SpeechRecognition
+PyAudio
+pyttsx3
+pyautogui
+pywhatkit
+psutil
+requests
+wikipedia
+flask
